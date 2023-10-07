@@ -402,7 +402,7 @@ img{
 .pg4row{
     padding: 0rem;
     min-height: 100vh;
-    transform: translateY(55vh);
-    background-color: aquamarine;
+    transform: translateY(30vh);
+    /* background-color: aquamarine; */
     padding: 2rem ;
 }
